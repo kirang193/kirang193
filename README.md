@@ -9,10 +9,10 @@
 - 🔭 I’m studying at  IITBHU.  
   
 
-- 🌱 I’m currently learning OS, AI and Algorithms.  
+- 🌱 I’m currently learning AI&ML.  
   
 
-- ❓ Ask me about anything related to Django.  
+- ❓ Ask me about anything related to Computer Science.  
   
 
 - ⚡ Fun fact: Best time is now.  
