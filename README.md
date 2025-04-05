@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kiran,  CSE sophomore 🌟</div>  
+### <div align="center">I'm Kiran,  CSE undergraduate🌟</div>  
   
 
 - 🔭 I’m studying at  IITBHU.  
